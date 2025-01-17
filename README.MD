@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src=".github/assets/banner.png">
+    <img width="100" src="https://github.com/alesscarv/prompts-recipe-to-create-a-ebook/blob/main/capa.png">
 </p>
 
 
