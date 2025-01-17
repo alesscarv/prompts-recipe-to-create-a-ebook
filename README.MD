@@ -36,7 +36,7 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| conteúdo | CRIE 21 ORAÇÕES E ESTRUTURE-AS NA FORMA DE UM E-BOOK, NO QUAL CADA ORAÇÃO DEVERÁ SER LIDA a cada dia. |
+| conteúdo | Crie 21 orações e estruture-as na forma de um e-book, no qual cada oração deverá ser lida a cada dia. |
 
 
 
