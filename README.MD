@@ -2,7 +2,7 @@
     <img width="100" src="https://github.com/alesscarv/prompts-recipe-to-create-a-ebook/blob/main/capa.png">
 </p>
 <p align="center">
-    <img width="100" src="https://github.com/alesscarv/prompts-recipe-to-create-a-ebook/blob/main/Ebook%20-%2021%20dias%20de%20ora%C3%A7%C3%A3o.pdf">
+    <img width="600" src="https://github.com/alesscarv/prompts-recipe-to-create-a-ebook/blob/main/Ebook%20-%2021%20dias%20de%20ora%C3%A7%C3%A3o.pdf">
 </p>
 
 
